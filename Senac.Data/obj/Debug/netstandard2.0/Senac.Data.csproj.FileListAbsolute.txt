@@ -1,0 +1,11 @@
+C:\Projetos\Api\Senac.Data\bin\Debug\netstandard2.0\Senac.Data.deps.json
+C:\Projetos\Api\Senac.Data\bin\Debug\netstandard2.0\Senac.Data.dll
+C:\Projetos\Api\Senac.Data\bin\Debug\netstandard2.0\Senac.Data.pdb
+C:\Projetos\Api\Senac.Data\bin\Debug\netstandard2.0\Senac.Core.dll
+C:\Projetos\Api\Senac.Data\bin\Debug\netstandard2.0\Senac.Core.pdb
+C:\Projetos\Api\Senac.Data\obj\Debug\netstandard2.0\Senac.Data.csprojAssemblyReference.cache
+C:\Projetos\Api\Senac.Data\obj\Debug\netstandard2.0\Senac.Data.AssemblyInfoInputs.cache
+C:\Projetos\Api\Senac.Data\obj\Debug\netstandard2.0\Senac.Data.AssemblyInfo.cs
+C:\Projetos\Api\Senac.Data\obj\Debug\netstandard2.0\Senac.Data.csproj.CopyComplete
+C:\Projetos\Api\Senac.Data\obj\Debug\netstandard2.0\Senac.Data.dll
+C:\Projetos\Api\Senac.Data\obj\Debug\netstandard2.0\Senac.Data.pdb
